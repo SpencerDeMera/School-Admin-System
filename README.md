@@ -4,6 +4,8 @@ School admin system for evaluation of university performance
 Author: Spencer C. DeMera\
 Author's email: Spencer.demera@csu.fullerton.edu
 
+<img src="admin.png">
+
 --- 
 Project meant as a theoretical exploration of what a school administration system might look like if written in C/C++. Program makes use of various crucial data structures such as; Lists, Dictionaries, ArrayLists, and ArrayList Dictionaries. System is terminal based and relies on menu navigation via numerical input from the command line.
  
